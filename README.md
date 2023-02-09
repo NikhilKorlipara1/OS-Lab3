@@ -7,3 +7,5 @@ In this lab, I:
 - Learned how to use a thread pool to parallelize a program.
 - Got a better understanding of key IPC concepts and issues.
 - Became a better C programmer and am now better prepared for your future technical job interviews, and am now more prepared for interviews learning the data encoder algorithm.
+
+
